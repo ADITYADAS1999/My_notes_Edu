@@ -1,5 +1,7 @@
 # My_notes_Edu #Computer_science 
 
+File structure for easily navigate 
+
 BCA SUB :  All the question sheets are present here.
 
 BCA/NOTES :  All the answer of the question sheet are present subject wise( Hand written/ Typing notes are present here)
