@@ -1,18 +1,18 @@
-# My_notes_Edu #Computer_science 
+# My_notes_Edu #Computer_science ✍🏻
 
-File structure for easily navigate 
+File structure for easily navigate  🔭
 
-BCA SUB :  All the question sheets are present here.
+[BCA SUB](https://github.com/ADITYADAS1999/My_notes_Edu/tree/main/BCA_MCA_EDU/BCA%20SUB) :  All the question sheets are present here.
 
-BCA/NOTES :  All the answer of the question sheet are present subject wise( Hand written/ Typing notes are present here)
+[BCA/NOTES](https://github.com/ADITYADAS1999/My_notes_Edu/tree/main/BCA_MCA_EDU/BCA/NOTES) :  All the answer of the question sheet are present subject wise( Hand written/ Typing notes are present here)
 
-COMPUTER_SCIENCE_BOOK : All the books are present here. 
+[COMPUTER_SCIENCE_BOOK](https://github.com/ADITYADAS1999/My_notes_Edu/tree/main/BCA_MCA_EDU/COMPUTER_SCIENCE_BOOK) : All the books are present here. 
 
-[ EBooks are all present here (Different version)] : https://z-lib.is/
+[ EBooks are all present here (With Different version)] : [Visit Here](https://z-lib.is/)
 
 Please go through thses notes
 
-To follow questions sheets email @ adityamca123@gmail.com
+To any questions email @ adityamca123@gmail.com
 
 All the files are password protected 🔑
 
